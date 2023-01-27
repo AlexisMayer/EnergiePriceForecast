@@ -14,7 +14,7 @@ Vous pouvez installer le package EnergiePriceForecast à partir de [GitHub](http
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("AlexisMayer/dashboard")
+devtools::install_github("AlexisMayer/EnergiePriceForecast")
 ```
 
 ## ShinyApp
