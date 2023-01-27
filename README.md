@@ -10,7 +10,7 @@ Il est généralement utilisé pour optimiser la production d'énergie électriq
      
 ## Installation
 
-You can install the development version of EnergiePriceForecast from [GitHub](https://github.com/) with:
+Vous pouvez installer le package EnergiePriceForecast à partir de [GitHub](https://github.com/) :
 
 ``` r
 # install.packages("devtools")
