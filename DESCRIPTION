@@ -1,0 +1,13 @@
+Package: EnergiePriceForecast
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mayer", "Alexis", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: L'ordre de mérite est un modèle utilisé pour déterminer la manière dont les différentes sources d'énergie doivent être utilisées pour répondre à la demande énergétique.
+      Il est généralement utilisé pour optimiser la production d'énergie électrique en prenant en compte les coûts marginaux de différentes sources d'énergie et les capacités de production.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
